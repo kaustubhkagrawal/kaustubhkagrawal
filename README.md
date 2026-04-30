@@ -7,10 +7,13 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-kaustubhkagrawal-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.npmjs.com/package/better-auth-razorpay-plugin">
-    <img alt="npm package" src="https://img.shields.io/badge/npm-better--auth--razorpay--plugin-CB3837?style=for-the-badge&logo=npm" />
+    <img alt="Razorpay npm package" src="https://img.shields.io/badge/npm-Razorpay%20Plugin-CB3837?style=for-the-badge&logo=npm" />
+  </a>
+  <a href="https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin">
+    <img alt="OpenMeter plugin" src="https://img.shields.io/badge/OpenMeter-Usage%20Metering-7c3aed?style=for-the-badge" />
   </a>
   <a href="https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin">
-    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-Better%20Auth%20x%20Razorpay-2563eb?style=for-the-badge" />
+    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-Better%20Auth%20Plugins-2563eb?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,6 +29,7 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) | Razorpay payments and subscriptions for Better Auth, with webhooks and React Query helpers. | TypeScript, Better Auth, Razorpay |
+| [better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) | OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges for Better Auth. | TypeScript, Better Auth, OpenMeter |
 | AI product experiments | Small AI-first tools, agent workflows, and workflow automation prototypes. | OpenAI, Next.js, Node.js |
 | Travel-first building | Notes, ideas, and products shaped while working from different places. | Product, writing, experiments |
 
@@ -48,6 +52,7 @@
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-0B72E7?style=flat-square" />
+  <img alt="OpenMeter" src="https://img.shields.io/badge/OpenMeter-7c3aed?style=flat-square" />
   <img alt="Better Auth" src="https://img.shields.io/badge/Better%20Auth-111827?style=flat-square" />
 </p>
 
@@ -66,6 +71,19 @@ A Better Auth plugin for Razorpay payments, subscriptions, checkout signatures, 
   </a>
   <a href="https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/npm/l/better-auth-razorpay-plugin?style=for-the-badge" />
+  </a>
+</p>
+
+### better-auth-openmeter-plugin
+
+A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges.
+
+<p>
+  <a href="https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin">
+    <img alt="Repository" src="https://img.shields.io/badge/Repo-better--auth--openmeter--plugin-7c3aed?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.npmjs.com/package/better-auth-openmeter-plugin">
+    <img alt="npm" src="https://img.shields.io/npm/v/better-auth-openmeter-plugin?style=for-the-badge&logo=npm&label=npm" />
   </a>
 </p>
 
