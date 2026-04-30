@@ -1,6 +1,6 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Kaustubh Agrawal</title>
-  <desc id="desc">Vibe Coder, AI Builder, and Traveler</desc>
+  <desc id="desc">Vibe Coder, AI Builder, and AI Multi Modality</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0f172a"/>
@@ -23,6 +23,6 @@
   <path d="M0 210C155 185 242 250 397 221C559 190 650 177 812 205C961 231 1060 212 1200 182V280H0V210Z" fill="url(#wave)"/>
   <path d="M0 232C152 251 250 207 398 217C557 228 637 254 799 233C967 211 1052 251 1200 220V280H0V232Z" fill="#020617" opacity="0.34"/>
   <text x="600" y="118" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="66" font-weight="800" fill="#f8fafc">Kaustubh Agrawal</text>
-  <text x="600" y="171" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#dbeafe">Vibe Coder | AI Builder | Traveler</text>
-  <text x="600" y="217" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="500" fill="#cbd5e1">AI-native products, developer tools, payments, auth, and ideas built from the road.</text>
+  <text x="600" y="171" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#dbeafe">Vibe Coder | AI Builder | AI Multi Modality</text>
+  <text x="600" y="217" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="500" fill="#cbd5e1">AI-native products, developer tools, payments, auth, and multi-modal workflows.</text>
 </svg>

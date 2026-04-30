@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Kaustubh Agrawal - Vibe Coder, AI Builder, and Traveler" width="100%" />
+  <img src="assets/banner.svg" alt="Kaustubh Agrawal - Vibe Coder, AI Builder, and AI Multi Modality" width="100%" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <strong>I build AI-native products, developer tools, and SaaS primitives.</strong><br />
-  Currently focused on fast product prototyping, auth/payments infrastructure, and practical AI workflows.
+  Currently focused on fast product prototyping, AI multi-modality, auth/payments infrastructure, and practical AI workflows.
 </p>
 
 ---
@@ -30,16 +30,15 @@
 | --- | --- | --- |
 | [better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) | Razorpay payments and subscriptions for Better Auth, with webhooks and React Query helpers. | TypeScript, Better Auth, Razorpay |
 | [better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) | OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges for Better Auth. | TypeScript, Better Auth, OpenMeter |
-| AI product experiments | Small AI-first tools, agent workflows, and workflow automation prototypes. | OpenAI, Next.js, Node.js |
-| Travel-first building | Notes, ideas, and products shaped while working from different places. | Product, writing, experiments |
 
 ## Focus Areas
 
 - AI product engineering
 - Developer tools and internal tooling
+- AI multi-modality
 - Auth, billing, and SaaS infrastructure
 - Fast idea-to-product prototyping
-- Travel, remote work, and independent building
+- Independent building
 
 ## Stack I Reach For
 
@@ -113,14 +112,14 @@ A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organ
 - Use AI as a product and engineering multiplier.
 - Keep systems small enough to understand and strong enough to run.
 - Learn from real users, real payments, and real deployment constraints.
-- Build from wherever the next good idea finds me.
+- Build from sharp ideas, fast feedback, and working prototypes.
 
 ## Now
 
 - Building AI-first SaaS and developer-tool experiments.
+- Exploring AI multi-modality across product workflows.
 - Exploring the Better Auth plugin ecosystem.
 - Publishing small open-source utilities.
-- Traveling, collecting product ideas, and turning them into shipped work.
 
 ## Connect
 
