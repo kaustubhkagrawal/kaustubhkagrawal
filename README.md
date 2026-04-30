@@ -86,6 +86,30 @@ A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organ
   </a>
 </p>
 
+## Live Activity
+
+#### What I am currently working on
+
+
+- [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (today)
+- [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) - Better Auth plugin for Razorpay payments, subscriptions, checkout, webhooks, and React Query helpers. (today)
+- [mixiopro/wavex-kalaasetu-demo](https://github.com/mixiopro/wavex-kalaasetu-demo) -  (6 months ago)
+- [kaustubhkagrawal/hackathon-nano-banana-fastrender](https://github.com/kaustubhkagrawal/hackathon-nano-banana-fastrender) -  (7 months ago)
+- [kaustubhkagrawal/n8n-ingest](https://github.com/kaustubhkagrawal/n8n-ingest) -  (8 months ago)
+
+#### Recent pull requests
+
+
+
+#### Recent stars
+
+
+- [necto-pro/pgit](https://github.com/necto-pro/pgit) -  (7 months ago)
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (9 months ago)
+- [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans (9 months ago)
+- [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui) - A collection of Sci-Fi themed components and futuristic design elements for modern web applications. (9 months ago)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (10 months ago)
+
 ## Operating Mode
 
 - Ship useful things before they become over-designed.
