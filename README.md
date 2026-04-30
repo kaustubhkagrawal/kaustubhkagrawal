@@ -86,6 +86,12 @@ A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organ
   </a>
 </p>
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhkagrawal&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8fafc&area=true&hide_border=true" width="100%" alt="Kaustubh Agrawal's GitHub activity graph" />
+</p>
+
 ## Live Activity
 
 #### What I am currently working on
