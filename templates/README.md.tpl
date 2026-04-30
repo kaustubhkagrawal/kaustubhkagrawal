@@ -90,21 +90,33 @@ A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organ
 
 #### What I am currently working on
 
-{{range recentContributions 5}}
+{{with recentContributions 3}}
+{{range .}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
+{{else}}
+- No recent public repository activity found.
+{{end}}
 
 #### Recent pull requests
 
-{{range recentPullRequests 5}}
+{{with recentPullRequests 5}}
+{{range .}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+{{else}}
+- No recent public pull requests found.
+{{end}}
 
 #### Recent stars
 
-{{range recentStars 5}}
+{{with recentStars 5}}
+{{range .}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+{{else}}
+- No recent public stars found.
+{{end}}
 
 ## Operating Mode
 

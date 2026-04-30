@@ -94,12 +94,10 @@ A Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organ
 - [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (today)
 - [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) - Better Auth plugin for Razorpay payments, subscriptions, checkout, webhooks, and React Query helpers. (today)
 - [mixiopro/wavex-kalaasetu-demo](https://github.com/mixiopro/wavex-kalaasetu-demo) -  (6 months ago)
-- [kaustubhkagrawal/hackathon-nano-banana-fastrender](https://github.com/kaustubhkagrawal/hackathon-nano-banana-fastrender) -  (7 months ago)
-- [kaustubhkagrawal/n8n-ingest](https://github.com/kaustubhkagrawal/n8n-ingest) -  (8 months ago)
 
 #### Recent pull requests
 
-
+- No recent public pull requests found.
 
 #### Recent stars
 
