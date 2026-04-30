@@ -1,0 +1,41 @@
+name: Profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "templates/README.md.tpl"
+      - ".github/workflows/profile-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PROFILE_README_TOKEN || github.token }}
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN || github.token }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile README"
+          commit_user_name: "kaustubh-readme-bot"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "kaustubh-readme-bot <41898282+github-actions[bot]@users.noreply.github.com>"
