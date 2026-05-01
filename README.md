@@ -36,25 +36,27 @@
 
 
 - [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (today)
-- [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) - Better Auth plugin for Razorpay payments, subscriptions, checkout, webhooks, and React Query helpers. (today)
+- [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) - Better Auth plugin for Razorpay payments, subscriptions, checkout, webhooks, and React Query helpers. (1 day ago)
 - [mixiopro/wavex-kalaasetu-demo](https://github.com/mixiopro/wavex-kalaasetu-demo) -  (6 months ago)
 
 
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [Add billing catalog control plane](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin/pull/1) on [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) (1 day ago)
+- [[codex] add CI and release automation](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin/pull/1) on [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) (1 day ago)
 
 
 #### Recent stars
 
 
 
+- [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (1 day ago)
+- [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (1 day ago)
 - [necto-pro/pgit](https://github.com/necto-pro/pgit) -  (7 months ago)
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (9 months ago)
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans (9 months ago)
-- [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui) - A collection of Sci-Fi themed components and futuristic design elements for modern web applications. (9 months ago)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (10 months ago)
 
 
 ## Operating Mode
