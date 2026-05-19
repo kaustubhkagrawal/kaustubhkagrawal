@@ -35,8 +35,8 @@
 
 
 
-- [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (1 week ago)
-- [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (1 week ago)
+- [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (2 weeks ago)
+- [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (2 weeks ago)
 - [kaustubhkagrawal/better-auth-razorpay-plugin](https://github.com/kaustubhkagrawal/better-auth-razorpay-plugin) - Better Auth plugin for Razorpay payments, subscriptions, checkout, webhooks, and React Query helpers. (2 weeks ago)
 
 
