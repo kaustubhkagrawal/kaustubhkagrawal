@@ -51,7 +51,7 @@
 
 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 weeks ago)
-- [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 weeks ago)
+- [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (4 weeks ago)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (1 month ago)
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (1 month ago)
 - [necto-pro/pgit](https://github.com/necto-pro/pgit) -  (8 months ago)
