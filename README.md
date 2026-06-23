@@ -35,15 +35,16 @@
 
 
 
-- [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (3 days ago)
-- [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (1 month ago)
+- [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (4 days ago)
 - [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (1 month ago)
+- [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (1 month ago)
 
 
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [feat: PR-aware cleanup with `wtk clean --closed`](https://github.com/kaustubhkagrawal/wtk/pull/1) on [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) (today)
 
 
 #### Recent stars
