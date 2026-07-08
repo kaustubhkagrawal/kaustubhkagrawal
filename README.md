@@ -35,8 +35,8 @@
 
 
 
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (today)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (2 weeks ago)
-- [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (2 months ago)
 - [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (2 months ago)
 
 
@@ -50,7 +50,7 @@
 
 
 
-- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 day ago)
+- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (2 days ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (2 months ago)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (2 months ago)
