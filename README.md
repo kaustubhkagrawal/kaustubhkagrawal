@@ -35,7 +35,7 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (4 days ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (today)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (1 month ago)
 - [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (3 months ago)
 
@@ -43,7 +43,8 @@
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [Align skills with the expanded Studio shot/scene contract (studio#503)](https://github.com/mixiopro/skills/pull/2) on [mixiopro/skills](https://github.com/mixiopro/skills) (today)
 
 
 #### Recent stars
@@ -52,7 +53,7 @@
 
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (4 weeks ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 months ago)
-- [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (2 months ago)
+- [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 months ago)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (3 months ago)
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (3 months ago)
 
