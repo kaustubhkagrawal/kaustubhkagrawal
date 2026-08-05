@@ -35,27 +35,26 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (today)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (1 day ago)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (1 month ago)
-- [kaustubhkagrawal/hermes-agent-coolify-template](https://github.com/kaustubhkagrawal/hermes-agent-coolify-template) - Coolify service template for Hermes Agent (3 months ago)
+- [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (3 months ago)
 
 
 #### Recent pull requests
 
 
-
-- [Align skills with the expanded Studio shot/scene contract (studio#503)](https://github.com/mixiopro/skills/pull/2) on [mixiopro/skills](https://github.com/mixiopro/skills) (today)
+- No recent public pull requests found.
 
 
 #### Recent stars
 
 
 
-- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (4 weeks ago)
+- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (today)
+- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 month ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 months ago)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (3 months ago)
-- [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry&#39;s Opinionated OpenClaw/Hermes Agent Brain (3 months ago)
 
 
 ## Operating Mode
