@@ -35,7 +35,7 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (1 day ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (today)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (1 month ago)
 - [kaustubhkagrawal/better-auth-openmeter-plugin](https://github.com/kaustubhkagrawal/better-auth-openmeter-plugin) - Better Auth plugin for OpenMeter usage metering, entitlements, API keys, organizations, and billing provider bridges. (3 months ago)
 
@@ -43,16 +43,18 @@
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [docs: fix stale skill count in install instructions](https://github.com/mixiopro/skills/pull/8) on [mixiopro/skills](https://github.com/mixiopro/skills) (today)
+- [docs: ground shot-scoped look binding across the skill set](https://github.com/mixiopro/skills/pull/7) on [mixiopro/skills](https://github.com/mixiopro/skills) (today)
 
 
 #### Recent stars
 
 
 
-- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (today)
+- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (1 day ago)
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 month ago)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 months ago)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 months ago)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! (3 months ago)
 
