@@ -35,8 +35,8 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (1 day ago)
-- [mixiopro/mixio-cli](https://github.com/mixiopro/mixio-cli) - CLI for Mixio Studio — profiles across orgs, dynamic client for the hosted MCP tool surface (2 days ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (2 days ago)
+- [mixiopro/mixio-cli](https://github.com/mixiopro/mixio-cli) - CLI for Mixio Studio — profiles across orgs, dynamic client for the hosted MCP tool surface (3 days ago)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (1 month ago)
 
 
@@ -50,7 +50,7 @@
 
 
 
-- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (3 days ago)
+- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (4 days ago)
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 month ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 months ago)
