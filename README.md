@@ -35,7 +35,7 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (3 days ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (1 day ago)
 - [mixiopro/mixio-cli](https://github.com/mixiopro/mixio-cli) - CLI for Mixio Studio — profiles across orgs, dynamic client for the hosted MCP tool surface (3 weeks ago)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (2 months ago)
 
@@ -43,7 +43,8 @@
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [docs(mixio-generate): document prompt enhancement modes](https://github.com/mixiopro/skills/pull/17) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
 
 
 #### Recent stars
