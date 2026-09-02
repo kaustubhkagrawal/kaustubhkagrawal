@@ -44,7 +44,11 @@
 
 
 
-- [docs(mixio-generate): document prompt enhancement modes](https://github.com/mixiopro/skills/pull/17) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
+- [feat(screenplay): comprehensive screenplay grammar &amp; audio/sfx engine (MIXSKILLS-3)](https://github.com/mixiopro/skills/pull/24) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
+- [feat(media): standardize local download fallback (curl -&gt; upload_file) for external media URLs (MIXSKILLS-8)](https://github.com/mixiopro/skills/pull/23) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
+- [feat(shot-planning): 5 structural archetypes &amp; execution audit (MIXSKILLS-5)](https://github.com/mixiopro/skills/pull/22) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
+- [feat(breakdown): deterministic script breakdown, entity graph linking &amp; relational audit (MIXSKILLS-4)](https://github.com/mixiopro/skills/pull/21) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
+- [feat(pipeline): pre-production Token Ralph Loop autonomous quality gate (MIXSKILLS-6)](https://github.com/mixiopro/skills/pull/20) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
 
 
 #### Recent stars
@@ -52,7 +56,7 @@
 
 
 - [gowtham0992/link](https://github.com/gowtham0992/link) - Local personal memory for LLM agents (3 weeks ago)
-- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (3 weeks ago)
+- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (4 weeks ago)
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 month ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (3 months ago)
