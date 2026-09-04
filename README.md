@@ -35,7 +35,7 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (2 days ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (3 days ago)
 - [mixiopro/mixio-cli](https://github.com/mixiopro/mixio-cli) - CLI for Mixio Studio — profiles across orgs, dynamic client for the hosted MCP tool surface (4 weeks ago)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (2 months ago)
 
@@ -44,8 +44,7 @@
 
 
 
-- [feat(screenplay): comprehensive screenplay grammar &amp; audio/sfx engine (MIXSKILLS-3)](https://github.com/mixiopro/skills/pull/24) on [mixiopro/skills](https://github.com/mixiopro/skills) (2 days ago)
-- [feat(media): standardize local download fallback (curl -&gt; upload_file) for external media URLs (MIXSKILLS-8)](https://github.com/mixiopro/skills/pull/23) on [mixiopro/skills](https://github.com/mixiopro/skills) (2 days ago)
+- [feat(screenplay): comprehensive screenplay grammar &amp; audio/sfx engine (MIXSKILLS-3)](https://github.com/mixiopro/skills/pull/24) on [mixiopro/skills](https://github.com/mixiopro/skills) (3 days ago)
 
 
 #### Recent stars
@@ -53,8 +52,8 @@
 
 
 - [gowtham0992/link](https://github.com/gowtham0992/link) - Local personal memory for LLM agents (3 weeks ago)
-- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (4 weeks ago)
-- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 month ago)
+- [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (1 month ago)
+- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (2 months ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 months ago)
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) - Open source alternative to Canny, UserVoice, Productboard (4 months ago)
 
