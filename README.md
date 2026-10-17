@@ -43,14 +43,15 @@
 #### Recent pull requests
 
 
-- No recent public pull requests found.
+
+- [docs(skills): develop screenplays and improve generation guidance](https://github.com/mixiopro/skills/pull/43) on [mixiopro/skills](https://github.com/mixiopro/skills) (1 day ago)
 
 
 #### Recent stars
 
 
 
-- [automagik-dev/omni](https://github.com/automagik-dev/omni) - Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform (1 day ago)
+- [automagik-dev/omni](https://github.com/automagik-dev/omni) - Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform (2 days ago)
 - [gowtham0992/link](https://github.com/gowtham0992/link) - Local personal memory for LLM agents (2 months ago)
 - [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (2 months ago)
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (3 months ago)
