@@ -35,7 +35,7 @@
 
 
 
-- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (3 days ago)
+- [mixiopro/skills](https://github.com/mixiopro/skills) - AI agent skills for media generation, workspace management, and creative workflows via Mixio Studio. Works with Claude Code, Cursor, Codex, and MCP-compatible agents. (4 days ago)
 - [mixiopro/mixio-cli](https://github.com/mixiopro/mixio-cli) - CLI for Mixio Studio — profiles across orgs, dynamic client for the hosted MCP tool surface (2 weeks ago)
 - [kaustubhkagrawal/wtk](https://github.com/kaustubhkagrawal/wtk) -  (3 months ago)
 
@@ -50,7 +50,7 @@
 
 
 
-- [automagik-dev/omni](https://github.com/automagik-dev/omni) - Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform (4 days ago)
+- [automagik-dev/omni](https://github.com/automagik-dev/omni) - Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform (5 days ago)
 - [gowtham0992/link](https://github.com/gowtham0992/link) - Local personal memory for LLM agents (2 months ago)
 - [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (2 months ago)
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (3 months ago)
