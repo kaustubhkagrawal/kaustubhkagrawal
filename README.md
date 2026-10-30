@@ -50,7 +50,7 @@
 
 
 
-- [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的 (4 days ago)
+- [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的 (5 days ago)
 - [automagik-dev/omni](https://github.com/automagik-dev/omni) - Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform (2 weeks ago)
 - [gowtham0992/link](https://github.com/gowtham0992/link) - Local personal memory for LLM agents (2 months ago)
 - [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them. (2 months ago)
